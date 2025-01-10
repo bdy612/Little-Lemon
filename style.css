@@ -1,0 +1,91 @@
+div{
+    border: 1px solid black;
+    padding: 0.5%;
+    margin: 0.2%;
+}
+.child{
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.line {
+    width: 90%;
+    height: 5px;
+    margin: 2px;
+    border-top: 1px solid black;
+    border-bottom: none;
+    border-right: none;
+    border-left: none;
+    line-height: 80%;
+}
+#inger #price{
+    font-weight: 400;
+    font-size: medium;
+}
+.start{
+    border: none;
+    background-color: aqua;
+}
+.start1{
+    border: none;
+    background-color: green;
+}
+body{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+div.login{
+    margin: 0.5%;
+}
+h1{
+    margin: 0.5%;
+    color: greenyellow;
+}
+#info{
+    color: rgb(140, 216, 241);
+}
+span.info{
+    color: rgb(109, 240, 133);
+}
+span.big{
+    size: 5%;
+}
+span.try{
+    color: rgb(0, 255, 238);
+}
+.hot{
+    color:rgb(255, 94, 94);
+}
+em{
+    margin: 0.5%;
+}
+img{
+    max-width: 100%;
+}
+button.btn{
+    display: inline;
+}
+.links{
+    border: 1px solid black;
+    padding: 0.5%;
+    margin: 0.2%;
+}
+a.link:hover{
+    color: rgb(212, 87, 240);
+    cursor: auto;
+}
+a.food:hover{
+    color: rgb(216, 181, 224);
+    cursor: auto;
+}
+a.link{
+    color: rgb(212, 87, 240);
+    cursor: pointer;
+    text-decoration: none;
+}
+a.food{
+    color: rgb(141, 141, 141);
+    cursor: pointer;
+    text-decoration: none;
+}
